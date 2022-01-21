@@ -1,0 +1,1 @@
+7PRGC-Factory-Singleton
